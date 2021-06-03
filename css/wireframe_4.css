@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Contenedor{
+    width: 330px;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Contenedor div{
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.item_1, .item_2, .item_3, .item_6, .item_7{
+    background-color: rgb(13, 122, 99);
+}
+.item_4, .item_5, .item_8{
+    background-color: rgb(4, 8, 56);
+}

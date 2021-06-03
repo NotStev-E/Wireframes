@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body div{
+    border-radius: 20px;
+    background-color: orangered;
+}
+.Contenedora{
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+    margin: auto;
+    height: auto;
+}
+.Caja_1{
+    width: 190px;
+    height: 210px;
+    margin: 30px 0px 0px 20px;
+}
+.Caja_2{
+    width: 160px;
+    height: 70px;
+    margin: 15px 40px 0px 0px;
+    align-self: flex-end;
+}
+.Caja_3{
+    width: 170px;
+    height: 190px;
+    margin: auto;
+    margin-top: 20px;
+}
+.Caja_4{
+    width: 180px;
+    height: 30px;
+    align-self: flex-end;
+    margin: 20px 10px 0px 00px;
+}

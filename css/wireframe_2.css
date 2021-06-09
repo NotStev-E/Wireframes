@@ -1,35 +1,36 @@
-*{
-    margin: 0;
-    padding: 0;
+.Contenedor{
+    width: 37rem;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
 }
 .item_1{
-    width: 130px;
-    height: 130px;
+    width: 13rem;
+    height: 13rem;
     border-radius: 100%;
     margin: auto;
-    margin-top: 50px;
     margin-bottom: 55px;
     background-color: rgb(99, 13, 136);
 }
 .item_2{
-    width: 280px;
-    height: 27px;
+    width: 28rem;
+    height: 2.7rem;
     border-radius: 50px;
     margin: auto;
     background-color: rgb(36, 2, 68);
     margin-bottom: 30px;
 }
 .item_3, .item_4{
-    width: 120px;
-    height: 15px;
+    width: 12rem;
+    height: 1.5rem;
     margin: auto;
     background-color: rgb(5, 5, 58);
     margin-top: 10px;
     border-radius: 50px;
 }
 .item_5{
-    width: 260px;
-    height: 160px;
+    width: 26rem;
+    height: 16rem;
     border-radius: 20px;
     margin: auto;
     background-color: rgb(241, 130, 89);
@@ -37,8 +38,8 @@
     margin-top: 30px;
 }
 .item_6{
-    width: 270px;
-    height: 30px;
+    width: 27rem;
+    height: 3rem;
     border-radius: 10px;
     margin: auto;
     background-color: rgb(9, 9, 70);

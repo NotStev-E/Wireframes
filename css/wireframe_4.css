@@ -1,20 +1,16 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
 .Contenedor{
-    width: 330px;
+    width: 33rem;
     height: auto;
     margin: auto;
-    margin-top: 40px;
+    margin-top: 30px;
 
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 .Contenedor div{
-    width: 120px;
-    height: 120px;
+    width: 12rem;
+    height: 12rem;
     margin: 10px;
     border-radius: 15px;
 }

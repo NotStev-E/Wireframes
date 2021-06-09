@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .conecciones{
     width: 100%;
     height: 60px;
@@ -13,6 +18,9 @@
     left: 0;
     right: 0;
 }
+html{
+    font-size: 62.5%;/*<--Unidad general 10px para unidad rem*/
+}
 .boton_1, .boton_2, .boton_3, .boton_4{
     background-color: rgb(4, 8, 56);
     padding: 20px 20px 20px 20px;
@@ -27,4 +35,7 @@
 }
 .boton_3{
     margin-right: 20px;
+}
+body{
+    margin-bottom: 60px;
 }

@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 .Contenedora{
-    width: 330px;
+    width: 33rem;
     height: auto;
     margin: auto;
     margin-top: 40px;
@@ -14,16 +10,16 @@
     flex-direction: column;
 }
 .item_1{
-    width: 40px;
-    height: 40px;
+    width: 4rem;
+    height: 4rem;
     border-radius: 100%;
     background: #ffff;
     margin-top: 30px;
     margin-left: 30px;
 }
 .item_2{
-    width: 270px;
-    height: 50px;
+    width: 27rem;
+    height: 5rem;
     border-radius: 20px;
     background: #ffff;
     margin: auto;
